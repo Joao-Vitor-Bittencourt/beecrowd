@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println("Executando desafio:")
-	basico.Bee1001(5, 8)
+	basico.Bee1001(-10, 14)
 }
