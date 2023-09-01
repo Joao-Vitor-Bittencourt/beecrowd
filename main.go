@@ -6,7 +6,7 @@ import (
 	"github.com/Joao-Vitor-Bittencourt/beecrowd/basico"
 )
 
-func Main() {
+func main() {
 	fmt.Println("Executando desafio:")
-	fmt.Println(basico.Bee1000())
+	basico.Bee1001(5, 8)
 }
