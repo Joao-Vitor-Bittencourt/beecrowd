@@ -2,7 +2,7 @@ package basico
 
 import "fmt"
 
-func basico() {
+func Bee1009() {
 	var sellersName string
 	var fixedSalary, sales float64
 
