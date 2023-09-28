@@ -8,7 +8,7 @@ func Bee1004() {
 	fmt.Scanf("%d", &a)
 	fmt.Scanf("%d", &b)
 
-	result = a + b + 0
+	result = a + b
 
 	fmt.Printf("SOMA = %d\n", result)
 }
